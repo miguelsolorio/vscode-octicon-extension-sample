@@ -1,9 +1,8 @@
-# Status Bar Sample
+# Octicons Extension Sample
 
-This is a sample extension that adds a status bar entry showing the current number of selected lines.
+This is a sample extension that adds a status bar entry that toggles through Octicons when clicked.
 
-![Show number of selected lines](https://raw.githubusercontent.com/Microsoft/vscode-extension-samples/master/statusbar-sample/preview.gif)
-
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/35271042/63787485-c1067e80-c8a8-11e9-8598-d2ff8087f9db.png">
 
 ## VS Code API
 
